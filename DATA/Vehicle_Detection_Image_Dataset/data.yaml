@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/Pr_GiaoThongThongMinh/DATA/Vehicle_Detection_Image_Dataset/train/images 
+val: /content/drive/MyDrive/Pr_GiaoThongThongMinh/DATA/Vehicle_Detection_Image_Dataset/valid/images
+nc: 1  # number of classes
+names: ['vehicle']  # class names
